@@ -111,3 +111,5 @@ ENV/
 #Editor files
 *.log~
 *.txt~
+
+#More files can be added
