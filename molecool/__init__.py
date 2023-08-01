@@ -6,3 +6,5 @@ from .functions import canvas
 
 
 from ._version import __version__
+
+from molecool.io import open_pdb
